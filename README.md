@@ -6,7 +6,7 @@ Developer. Speaker. Teacher.
 
 Mohamed Abdi Ahmed is a JavaScript Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
 
-* 🌍  I'm based in Ethiopia, JigJiga
+* 🌍  I'm based in Hargeisa, Somaliland
 * 🧠  I'm learning everything JavaScript & TypeScript
 * 😄 Pronouns: he/him
 
