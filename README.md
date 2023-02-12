@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Abdi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamse Dek Yousuf
 =====================================================================================================================================
-
-Developer. Speaker. Teacher.
+ Speaker. 
 ----------------------------
 
-Mohamed Abdi Ahmed is a JavaScript Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
+Hamse Dek Yousuf is a Speaker, and i always learn html and css . if allaha says i will be come developer
 
-* 🌍  I'm based in Hargeisa, Somaliland
-* 🧠  I'm learning everything JavaScript & TypeScript
+* 🌍  I'm based in jigjiga,ethiopia
+* 🧠  I'm learning everything  html and css
 * 😄 Pronouns: he/him
+* 😋 smile person
 
 
 
